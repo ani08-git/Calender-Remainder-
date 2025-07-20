@@ -23,12 +23,6 @@ A simple web-based Calendar and Reminder application built with HTML, CSS, and J
 4. Use **Add Reminder** to set a note for a specific date.
 5. Use **View Reminders** to see all your saved notes.
 
-## 🛠️ Tech Stack
-
-* HTML
-* CSS
-* JavaScript
-
 ## 📁 File Structure
 
 ```
